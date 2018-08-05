@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mayuzhong.github.io.iml" filepath="$PROJECT_DIR$/Mayuzhong.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayuzhong/mayuzhong.iml" filepath="$PROJECT_DIR$/mayuzhong/mayuzhong.iml" />
+    </modules>
+  </component>
+</project>
